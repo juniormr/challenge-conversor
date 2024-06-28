@@ -1,6 +1,20 @@
-# challenge-conversor
-Conversor de monedas, por ahora en consola.
+# Coversor de monedas
+Conversor de monedas desarollado en Java. 
 <br />
-Utilizando https://www.exchangerate-api.com/
+Utilizando ExchangeRate-API este conversor obtiene las tasas de cambio actuales y y permite convertir entre las monedas presentes en la API.
 <br />
-Completamente con Java, usando Gson para manipular datos JSON y Firebase para el historial.
+Se  utiliza Gson para manipular datos JSON y Firebase para el historial.
+<br />
+## Características
+- Conversión de una moneda a otra con tasas actuales.
+- Selección de moneda en formato de tres letras (ISO 4217) presentes en la API.
+- Historial de operaciones.
+  
+## Requisitos
+- Java 11 o superior.
+- Biblioteca Gson.
+
+## Instalación
+1. Clonar repositorio o descargar el código fuente.
+2. Tener Java 11 o superior.
+3. Descargar e integrar Gson al proyecto.
