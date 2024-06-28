@@ -11,10 +11,10 @@ Se  utiliza Gson para manipular datos JSON y Firebase para el historial.
 - Historial de operaciones.
   
 ## Requisitos
-- Java 11 o superior.
+- Java 17 o superior.
 - Biblioteca Gson.
 
 ## Instalación
 1. Clonar repositorio o descargar el código fuente.
-2. Tener Java 11 o superior.
+2. Tener Java 17 o superior.
 3. Descargar e integrar Gson al proyecto.
